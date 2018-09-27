@@ -80,7 +80,7 @@ copyright = "Hugo Saracino"   # default: author.name ↓
   fancybox = true           # see https://github.com/fancyapps/fancybox
 
   # mathjax
-  mathjax = true           # see https://www.mathjax.org/
+  mathjax = false           # see https://www.mathjax.org/
   mathjaxEnableSingleDollar = false
   mathjaxEnableAutoNumber = false
   mathjaxUseLocalFiles = false  # You should install mathjax in `yout-site/static/lib/mathjax`

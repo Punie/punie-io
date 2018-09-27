@@ -1,12 +1,13 @@
 ---
 title: 'Initial Commit'
 date: 2018-09-27T10:33:44+02:00
-lastmod: 2018-09-27T10:33:44+02:00
 draft: false
 keywords: []
 description: 'Some first post'
 tags: []
 categories: []
+
+mathjax: true
 ---
 
 Lots of stuff coming !

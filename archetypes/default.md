@@ -1,13 +1,12 @@
 ---
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
-lastmod: {{ .Date }}
 draft: true
 keywords: []
 description: ""
 tags: []
 categories: []
-author: ""
+author: {{ .Site.Author.name }}
 
 # You can also close(false) or open(true) something for this content.
 # P.S. comment can only be closed
@@ -34,7 +33,7 @@ flowchartDiagrams:
   enable: false
   options: ""
 
-sequenceDiagrams: 
+sequenceDiagrams:
   enable: false
   options: ""
 
