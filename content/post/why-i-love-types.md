@@ -10,9 +10,7 @@ author: Hugo Saracino
 ---
 
 Types (and consequently, type systems) are, to me, one of the most fascinating aspects of programming languages.
-They constitute also one of their most polarizing features.
-
-Programmers love their holy wars: tabs vs. spaces, emacs vs. vim, and so on. Types are no different.
+They constitute also one of their most polarizing features --- programmers love their holy wars: tabs vs. spaces, emacs vs. vim, and so on. Types are no different.
 
 Personally, I always loved them. At times, I felt like some kind of masochist, relishing every instance of the compiler yelling at me that I ought to fix my code immediately if I wanted to get shit done.
 
