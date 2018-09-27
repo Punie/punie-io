@@ -135,10 +135,10 @@ copyright = "Hugo Saracino"   # default: author.name ↓
     clientSecret = ""       # Your client secret
 
   [params.gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
-    owner = ""              # Your GitHub ID
-    repo = ""               # The repo to store comments
-    clientId = ""           # Your client ID
-    clientSecret = ""       # Your client secret
+    owner = "Punie"              # Your GitHub ID
+    repo = "punie-io"               # The repo to store comments
+    clientId = "ea6a372dfaaf854be9fc"           # Your client ID
+    clientSecret = "3ad55db05b34710102e5256072bf5f7771381c90"       # Your client secret
 
   [params.flowchartDiagrams]# see https://blog.olowolo.com/example-site/post/js-flowchart-diagrams/
     enable = false
