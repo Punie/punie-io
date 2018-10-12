@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://punie-io.netlify.com/"
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Typed"
@@ -37,16 +37,21 @@ copyright = "Hugo Saracino"   # default: author.name ↓
   weight = 20
   identifier = "archives"
   url = "/post/"
+# [[menu.main]]
+#   name = "Categories"
+#   weight = 30
+#   identifier = "categories"
+#   url = "/categories/"
+# [[menu.main]]
+#   name = "Tags"
+#   weight = 40
+#   identifier = "tags"
+#   url = "/tags/"
 [[menu.main]]
-  name = "Categories"
-  weight = 30
-  identifier = "categories"
-  url = "/categories/"
-[[menu.main]]
-  name = "Tags"
-  weight = 40
-  identifier = "tags"
-  url = "/tags/"
+  name = "About"
+  weight = 50
+  identifier = "about"
+  url = "/about/"
 
 [params]
   version = "3.x"           # Used to give a friendly message when you have an incompatible update
